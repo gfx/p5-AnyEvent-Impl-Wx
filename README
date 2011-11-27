@@ -1,0 +1,39 @@
+This is Perl module AnyEvent::Impl::Wx.
+
+INSTALLATION
+
+Type the following command:
+
+    $ curl -L http://cpanmin.us | perl - AnyEvent::Impl::Wx
+
+Or install cpanm and then run the following command to install
+AnyEvent::Impl::Wx:
+
+    $ cpanm AnyEvent::Impl::Wx
+
+If you get an archive of this distribution, unpack it and build it
+as per the usual:
+
+    $ tar xzf AnyEvent-Impl-Wx-$version.tar.gz
+    $ cd AnyEvent-Impl-Wx-$version
+    $ perl Makefile.PL
+    $ make && make test
+
+Then install it:
+
+    $ make install
+
+DOCUMENTATION
+
+AnyEvent::Impl::Wx documentation is available as in POD. So you can do:
+
+    $ perldoc AnyEvent::Impl::Wx
+
+to read the documentation online with your favorite pager.
+
+LICENSE AND COPYRIGHT
+
+Copyright (c) 2011, <<YOUR NAME HERE>>. All rights reserved.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
